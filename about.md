@@ -15,3 +15,5 @@ I'm passionate about philosophy and blockchains. In free time, I try to find mea
 Best way to connect would be `csbadhe08@gmail.com` or Discord `thecyberlord#9954`.
 
 <!-- *This is Tale Jekyll theme, I've made few changes to it, source code is available on my [GitHub](https://github.com/thecyberlord/thecyberlord.github.io) profile.* -->
+
+All the contents I've written are freely licensed under [WTFPL](http://www.wtfpl.net/).

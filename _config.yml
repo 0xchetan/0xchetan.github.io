@@ -34,8 +34,7 @@ instagram_username: thecyberlord
 
 # Build settings
 markdown: kramdown
-remote_theme: chesterhow/tale
-
+remote_theme: "thecyberlord/tale"
 
 permalink: /:year-:month-:day/:title
 paginate: 5

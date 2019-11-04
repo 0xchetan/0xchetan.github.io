@@ -8,7 +8,7 @@ permalink: /about/
 
 There is nothing interesting about me! 
 
-I'm full stack developer. Building [Cryptostaw](https://cryptostaw.com). 
+I'm full stack developer. Building [Incento](https://incento.io). 
 
 I'm passionate about philosophy and blockchains. In free time, I try to find meaning of life. I read a lot, think a lot and sometimes write down my thoughts on this blog.
 

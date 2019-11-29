@@ -26,15 +26,15 @@ google_analytics: UA-142719177-1
 description: >-
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chetanbadhe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _thecyberlord
 instagram_username: thecyberlord
 
-#github_username: jekyll
+github_username: thecyberlord
 
 # Build settings
 markdown: kramdown
-remote_theme: "thecyberlord/tale"
+remote_theme: "thecyberlord/type"
 
 permalink: /:year-:month-:day/:title
 paginate: 5

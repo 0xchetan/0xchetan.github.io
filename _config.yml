@@ -34,7 +34,7 @@ github_username: thecyberlord
 
 # Build settings
 markdown: kramdown
-remote_theme: "thecyberlord/type"
+remote_theme: "thecyberlord/tale"
 
 permalink: /:year-:month-:day/:title
 paginate: 5
